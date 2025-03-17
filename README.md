@@ -1,6 +1,6 @@
 ## 💫 Qui suis je ?
 Ce qui me passionne dans l’analyse de données, c’est d’avoir un rôle clé : transformer des données brutes en informations utiles et impactantes pour les décideurs.
-Du traitement des flux de données à la création de rapports interactifs en Business Intelligence, j’aime innover, résoudre des problématiques métiers et donner du sens aux données pour accompagner les entreprises dans leurs choix.
+Du traitement des flux de données à la création de rapports interactifs en Business Intelligence, j’aime innover, résoudre des problématiques métiers et donner du sens aux données pour accompagner les entreprises dans leurs décisions stratégiques.
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaudAUMIPHIN) 
